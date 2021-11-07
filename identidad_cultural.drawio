@@ -1,1 +1,40 @@
-<mxfile host="app.diagrams.net" modified="2021-11-07T15:56:01.171Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="1dJPvxbb-pcipFjUo6UF" version="15.7.0" type="github"><diagram name="Page-1" id="3e8102d1-ef87-2e61-34e1-82d9a586fe2e">5ZlZb+M2EMc/jR9r6Lb8uHGOFmiBRVO0jwJN0RKxFClQlI9++g4tSpZMJnAWduHN+iER/8NDnPl5eHgWrqr9i0R1+YfICZsFXr6fhY+zIPAjL4V/Wjl0SrL0O6GQNDeVTsIr/ZcY0TNqS3PSTCoqIZii9VTEgnOC1URDUordtNpGsOmoNSqIJbxixGz1H5qr0qi+550MvxJalGboNDaGNcLfCilabsbjgpPOUqG+G1O1KVEudiMpfJqFKymE6p6q/Yow7dbeY1275zeswytLwtUlDRZekiSLOMFptF4vQ/yL6WGLWGvcYF5UHXq/QA8QAig87EqqyGuNsLbsgALQSlUxKPnweHQB0SN5UBqmqgtYVBT3BiXFt8HFuuFGcPWMKso0OX8TmSOOjGww8aOh4UowIUE6ehkqUcZ6aRaEnpcsj33anumnSqQi+5FkPPVCREWUPEAVYw1SE7XDgEJX3p3wiHs6yhEZg4gMksXQ9yk28GDCc2GoAitUT1wRWUsKwQkSBoM/5HQLj4V+fGgbyknT9CYYb2R1NDDfaHftO2RCh+4iJjbHj2nsYuXYqZmc4yv1YXAibwoODGWBEyQOcAbxquDEFjgrUVUtp+pgBXYSoRw15RC7UVA/5HSG1oR9FQ1VVHCwYaKpBYP2J4X0+/tZhbVQSlSjCl8YLbRBibpjqNYvW+0LvQ7NxWZDMZm3DZFN99fCbkzahbnmDJXn4+c6aSWMp3REkU1HlLiyyg3YSGw22gbcDxGyM8QrkVvw9YU54gdHCWqzrBshg5Vfh/uusUoWyRQrP7wMq/gGWC0srP4kTS24c6V6AbfWPwdU0nghK45zvm+izhNV4NlExamDqOgGRKV2ooKZScRcOxlwVUEqPfNLNz8/SWprumlCduucl1WDqzJju3co/cUEytCR5mL/f4JyaUH5SAuqnFA+ki1hon6Pys9Emc52gme1JBWcT5qs0+4crsX5xj0N7DU0csCV3gCu/rQ5ousvgksOUy8ODsBWOkTgf6TIm4e+z0MYbiWcX+YKXo3/IKkrOt/4L226XKfCOLkFXfbNz298IxFEu8WqleTzwIIFx6RWk3x056jEy/AMFfuMGLoS0S0287598/TCxNq5yn1FUnHI/aW+tf3kSWjgqgBvkIzqQTi593NiFPkTtHzX9cPSRqvXrotWaKH1xLdUCq73SU7Cvuz07N+52LwaXudhrxqMyLyAwWHnrKOvKG9F22T4gNl7PN4MBzeu348/Mv0MLa6Rys5WPT+Mbd5cp8hbXHf59l3oM+WIY+dyN4l+A65p5nBogm38nLRSTAl6K/ZOsr4zD1nheed2fUL6fWWgJJwe4fx0aRMRO4jwP0wEFE8/rh1tox8vw6f/AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-11-07T16:21:17.023Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="eB16dkTQBTh8GSrZNeCI" version="15.7.0" type="github">
+  <diagram name="Page-1" id="3e8102d1-ef87-2e61-34e1-82d9a586fe2e">
+    <mxGraphModel dx="730" dy="611" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="70666756c84bb93c-1" value="" style="ellipse;whiteSpace=wrap;html=1;rounded=0;shadow=0;comic=0;strokeWidth=1;fontFamily=Verdana;fontSize=14;strokeColor=none;fillColor=#006600;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="280" y="110" width="500" height="500" as="geometry" />
+        </mxCell>
+        <mxCell id="70666756c84bb93c-2" value="Identidad&lt;br&gt;Cultural" style="ellipse;whiteSpace=wrap;html=1;rounded=0;shadow=0;comic=0;strokeWidth=1;fontFamily=Verdana;fontSize=22;strokeColor=none;fillColor=#FFFFFF;fontColor=#006600;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="400" y="230" width="260" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="70666756c84bb93c-5" value="Normas" style="shadow=0;dashed=0;html=1;strokeColor=default;fillColor=#ffffff;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;shape=mxgraph.office.users.users;rounded=0;comic=0;fontFamily=Verdana;fontSize=14;fontColor=#FFFFFF;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="370" y="468" width="46" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="70666756c84bb93c-11" value="Patrimonio&lt;br&gt;Cultural" style="shape=mxgraph.signs.travel.museum;html=1;pointerEvents=1;fillColor=#ffffff;strokeColor=default;verticalLabelPosition=bottom;verticalAlign=top;align=center;sketch=0;shadow=0;dashed=0;fontFamily=Verdana;fontSize=14;fontColor=#FFFFFF;comic=0;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="352" y="194" width="48" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="70666756c84bb93c-12" value="Territorio" style="shadow=0;dashed=0;html=1;strokeColor=default;fillColor=#ffffff;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;shape=mxgraph.office.concepts.globe_internet;rounded=0;comic=0;fontFamily=Verdana;fontSize=14;fontColor=#FFFFFF;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="501" y="140" width="49" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="70666756c84bb93c-13" value="Historia" style="shadow=0;dashed=0;html=1;strokeColor=default;shape=mxgraph.mscae.general.continuous_cycle;fillColor=#ffffff;rounded=0;comic=0;fontFamily=Verdana;fontSize=14;fontColor=#FFFFFF;verticalAlign=top;labelPosition=center;verticalLabelPosition=bottom;align=center;labelBackgroundColor=none;" parent="1" vertex="1">
+          <mxGeometry x="640" y="189" width="60" height="61" as="geometry" />
+        </mxCell>
+        <mxCell id="hbTPjuYIqT94KeS6R7Wr-3" value="Objetos &lt;br&gt;tecnológicos &lt;br&gt;y tecnología" style="shape=mxgraph.signs.tech.camera_1;html=1;pointerEvents=1;verticalLabelPosition=bottom;verticalAlign=top;align=center;sketch=0;fontColor=#FFFFFF;fontFamily=Verdana;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="320" y="340" width="42" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="hbTPjuYIqT94KeS6R7Wr-4" value="Simbolos" style="shape=mxgraph.signs.tech.at_1;html=1;pointerEvents=1;verticalLabelPosition=bottom;verticalAlign=top;align=center;sketch=0;fontColor=#FFFFFF;fontStyle=1;fontFamily=Verdana;" vertex="1" parent="1">
+          <mxGeometry x="650" y="450" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="hbTPjuYIqT94KeS6R7Wr-5" value="Valores y creencias" style="shape=mxgraph.signs.healthcare.chapel;html=1;pointerEvents=1;fillColor=rgba(255, 255, 255, 1);strokeColor=rgba(0, 0, 0, 1);verticalLabelPosition=bottom;verticalAlign=top;align=center;sketch=0;fontFamily=Verdana;fontSize=12;fontColor=#FFFFFF;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="510" y="510" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="hbTPjuYIqT94KeS6R7Wr-8" value="Lenguas y&lt;br&gt;Lenguajes" style="shape=mxgraph.signs.healthcare.sign_language;html=1;pointerEvents=1;verticalLabelPosition=bottom;verticalAlign=top;align=center;sketch=0;labelBackgroundColor=none;fontFamily=Verdana;fontStyle=1;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="680" y="328" width="71" height="52" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
