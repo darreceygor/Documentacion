@@ -1,1 +1,94 @@
-<mxfile host="app.diagrams.net" modified="2022-12-02T18:08:07.542Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" version="20.5.1" etag="pv-qjAOpV1HyNkWcm2eQ" type="github"><diagram id="guH1xkoyFc6ZsDyALpq0">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-12-02T18:27:23.399Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="qdynq22ibT3QoyDbg8ND" version="20.5.1" type="github">
+  <diagram id="guH1xkoyFc6ZsDyALpq0" name="Página-1">
+    <mxGraphModel dx="884" dy="665" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="NFYQyIUX8B8ZuCJUgrpN-2" value="USER ACTIVITIES" style="text;html=1;strokeColor=default;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="40" y="120" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="NFYQyIUX8B8ZuCJUgrpN-3" value="USER TASKS" style="text;html=1;strokeColor=default;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="40" y="240" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="NFYQyIUX8B8ZuCJUgrpN-4" value="USER STORIES" style="text;html=1;strokeColor=default;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="40" y="360" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="NFYQyIUX8B8ZuCJUgrpN-5" value="USER" style="text;html=1;strokeColor=default;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="40" y="40" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NFYQyIUX8B8ZuCJUgrpN-6" value="VECINO" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="40" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NFYQyIUX8B8ZuCJUgrpN-7" value="RESERVAR HERRAMIENTA" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="120" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="NFYQyIUX8B8ZuCJUgrpN-8" value="RESPONSABLE &lt;br&gt;DEL PROYECTO" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="680" y="40" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NFYQyIUX8B8ZuCJUgrpN-9" value="GESTIONAR HERRAMIENTAS" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="680" y="120" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="NFYQyIUX8B8ZuCJUgrpN-10" value="&amp;nbsp;Como vecino quiero seleccionar una herramienta de la lista de herramientas existentes para una posible reserva" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="360" width="120" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="NFYQyIUX8B8ZuCJUgrpN-11" value="Como vecino quiero obtener un código de acceso para acceder al lugar donde se guardan las herramientas" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="570" width="120" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="NFYQyIUX8B8ZuCJUgrpN-12" value="Como vecino quiero reservar una herramienta para utilizarla en mis quehaceres" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="480" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="NFYQyIUX8B8ZuCJUgrpN-13" value="&lt;span style=&quot;text-align: left;&quot;&gt;Como vecino quiero reportar una anomalía en caso de no encontrar la herramienta reservada&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="360" width="120" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="NFYQyIUX8B8ZuCJUgrpN-24" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Como responsable del proyecto quiero agregar, herramientas, para mantener actualizado el listado de las mismas&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="680" y="360" width="160" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="NFYQyIUX8B8ZuCJUgrpN-25" value="&lt;div style=&quot;text-align: left;&quot;&gt;Como responsable del proyecto quiero&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;eliminar&amp;nbsp; herramienta (de forma temporal o definitiva), para mantener&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;actualizado el listado de las mismas&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="880" y="360" width="200" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="NFYQyIUX8B8ZuCJUgrpN-26" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Como responsable del proyecto quiero llevar estadísticas del uso de las herramientas para&amp;nbsp; Planificar mejor futuras compras&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1120" y="360" width="170" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="NFYQyIUX8B8ZuCJUgrpN-27" value="INGRESAR HERRAMIENTAS" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="680" y="240" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="NFYQyIUX8B8ZuCJUgrpN-28" value="ELIMINAR HERRAMIENTAS" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="880" y="240" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="NFYQyIUX8B8ZuCJUgrpN-30" value="LLEVAR CONTROL DE USO DE LAS HERRAMIENTAS" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1120" y="240" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="NFYQyIUX8B8ZuCJUgrpN-32" value="RESERVAR HERRAMIENTA" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="240" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="NFYQyIUX8B8ZuCJUgrpN-34" value="&lt;span style=&quot;text-align: left;&quot;&gt;Como vecino quiero&lt;/span&gt;&lt;br style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;text-align: left;&quot;&gt;acceder al calendario de reservas para saber cuando puedo solicitar una&lt;/span&gt;&lt;br style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;text-align: left;&quot;&gt;herramienta&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="360" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="NFYQyIUX8B8ZuCJUgrpN-35" value="REALIZAR REPORTE POR ANOMALIAS" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="240" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="NFYQyIUX8B8ZuCJUgrpN-36" value="REVISAR CALENDARIO DE RESERVAS" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="240" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="NFYQyIUX8B8ZuCJUgrpN-37" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="40" y="100" as="sourcePoint" />
+            <mxPoint x="1320" y="100" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NFYQyIUX8B8ZuCJUgrpN-38" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="40" y="220" as="sourcePoint" />
+            <mxPoint x="1320" y="220" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NFYQyIUX8B8ZuCJUgrpN-39" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="40" y="340" as="sourcePoint" />
+            <mxPoint x="1320" y="340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
